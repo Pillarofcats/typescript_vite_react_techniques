@@ -1,0 +1,19 @@
+{
+  "Dogs": [
+    {
+      "name": "Kelly",
+      "age": 7,
+      "color": "Gold"
+    },
+    {
+      "name": "Frank",
+      "age": 2,
+      "color": "Black"
+    },
+    {
+      "name": "Peter",
+      "age": 5,
+      "color": "Brown"
+    }
+  ]
+}

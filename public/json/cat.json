@@ -1,0 +1,19 @@
+{
+  "Cats": [
+    {
+      "name": "Fred",
+      "age": 6,
+      "color": "Black"
+    },
+    {
+      "name": "Jim",
+      "age": 3,
+      "color": "Grey"
+    },
+    {
+      "name": "Mary",
+      "age": 2,
+      "color": "Orange"
+    }
+  ]
+}
