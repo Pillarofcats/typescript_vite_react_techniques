@@ -20,6 +20,8 @@ import ContextUseReducer from './components/ContextUseReducer'
 
 import SearchComplete from './components/SearchComplete'
 
+import Throttle from './components/Throttle'
+
 function App() {
   //Form & List
     //Prevent rerenders to components that receive items as props
@@ -61,6 +63,9 @@ function App() {
       <ContextUseReducer />
 
       <SearchComplete />
+
+      <Throttle/>
+      
     </div>
   )
 }
